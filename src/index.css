@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: font1;
+  src: url("../src/assets/Fonts/Lausanne-300.woff2");
+}
+
+@font-face {
+  font-family: font2;
+  src: url("../src/assets/Fonts/Lausanne-500.woff2");
+}
+
+body,
+html {
+  color: white;
+  scrollbar-width: none;
+}
+*::-webkit-scrollbar{
+  scrollbar-width: none;
+}
+
+.MarqX {
+  animation-name: MovingX;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes MovingX {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}

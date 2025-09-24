@@ -1,0 +1,63 @@
+const projectData = [
+  {
+    id: 1,
+    date: "2024",
+    title: "Everyone’s Pharmacy",
+    btn: "read",
+    secondTitle: "Complete rebrand",
+    image:
+      "../../../../public/assets/Images/ProjectImage/100temps_Thumbnail-1280x960.jpg",
+    desc: "With over 430 branches and unparalleled recognition in Quebec, Jean Coutu has undertaken its first major transformation in over 50 years. The new platform strengthens the unity of its three sectors: health, retail, and beauty. Gradually rolled out, this brand evolution marks a new era. After more than 50 years taking care of Quebecers, Jean Coutu is now taking care of itself.",
+  },
+  {
+    id: 2,
+    date: "2022",
+    title: "Wildscape",
+    btn: "Lire",
+    secondTitle: "Lancement conduite debout",
+    image:
+      "../../../../public/assets/Images/ProjectImage/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png",
+    desc: "Widescape, c’est la première motoneige en conduite debout, pour plus d’action et d’émotions. Une toute nouvelle marque qui transforme les sports motorisés d’hiver à jamais Widescape, c’est la première motoneige en conduite debout, pour plus d’action et d’émotions. Une toute nouvelle marque qui transforme les sports motorisés d’hiver à jamaisWidescape, c’est la première motoneige en conduite debout, pour plus d’action et d’émotions. Une toute nouvelle marque qui transforme les sports motorisés d’hiver à jamais.",
+  },
+  {
+    id: 3,
+    date: "2023",
+    title: "EcoSmart Living",
+    btn: "Explore",
+    secondTitle: "Développement application énergétique",
+    image:
+      "../../../../public/assets/Images/ProjectImage/BEST_site_menu_Thumbnail-1280x960.jpg",
+    desc: "EcoSmart Living est une application innovante qui aide les foyers à réduire leur consommation d'énergie grâce à l’IA. L’application analyse les habitudes quotidiennes et propose des solutions en temps réel pour économiser l’énergie.",
+  },
+  {
+    id: 4,
+    date: "2021",
+    title: "Cultural Beats",
+    btn: "Discover",
+    secondTitle: "Plateforme artistes émergents",
+    image:
+      "../../../../public/assets/Images/ProjectImage/CF_thumbnail-1280x960.jpg",
+    desc: "Cultural Beats est une plateforme digitale permettant aux jeunes artistes de partager leur musique, collaborer et toucher un public international. L’expérience utilisateur met l’accent sur l’immersion et l’interaction.",
+  },
+  {
+    id: 5,
+    date: "2020",
+    title: "Urban Vision",
+    btn: "Voir",
+    secondTitle: "Création une startup urbaine",
+    image:
+      "../../../../public/assets/Images/ProjectImage/chalaxeur-thumbnail_img-1280x960.jpg",
+    desc: "Urban Vision est une startup spécialisée dans l’aménagement urbain durable. Le projet consistait à développer une identité visuelle moderne reflétant l’innovation et la responsabilité écologique de la marque.",
+  },
+  {
+    id: 6,
+    date: "2019",
+    title: "Crisis24",
+    btn: "Lire Plus",
+    secondTitle: "Plateforme temps réel",
+    image:
+      "../../../../public/assets/Images/ProjectImage/crisis24_behance_1920X1200_cartes-1280x960.jpg",
+    desc: "Crisis24 offre une solution de sécurité globale qui informe en temps réel des risques internationaux. Notre rôle a été de créer une interface intuitive et une identité graphique forte pour inspirer confiance et fiabilité.",
+  },
+];
+export default projectData;
