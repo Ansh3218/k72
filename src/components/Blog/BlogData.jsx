@@ -7,7 +7,7 @@ const BlogData = [
   },
   {
     video:
-      "/public/assets/Images/ProjectImage/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png",
+      "/public/assets/Images/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png",
     date: "20 Sep 2025",
     title: "Simple strategies to improve website speed and user experience",
     btn: "Explore Now",

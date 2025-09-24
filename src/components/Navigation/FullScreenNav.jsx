@@ -1,6 +1,6 @@
 import React, { useContext, useRef, useEffect } from "react";
-import Img1 from "../../../public/assets/Gif/imgi_21_PJC_SiteK72_Thumbnail_640x290-640x290.jpg";
-import Img2 from "../../../public/assets/Gif/imgi_22_WS---K72.ca---MenuThumbnail-640x290.jpg";
+import Img1 from "../../../public/assets/Images/imgi_21_PJC_SiteK72_Thumbnail_640x290-640x290.jpg";
+import Img2 from "../../../public/assets/Images/imgi_22_WS---K72.ca---MenuThumbnail-640x290.jpg";
 import LogoSvg from "../../../public/assets/Svg/logo";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
