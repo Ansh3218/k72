@@ -2,20 +2,21 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 import React, { useEffect, useRef } from "react";
-import ScrollImg1 from "../../src/assets/Images/imgi_1_Carl_480x640-480x640.jpg";
-import ScrollImg2 from "../../src/assets/Images/imgi_2_Olivier_480x640-480x640.jpg";
-import ScrollImg3 from "../../src/assets/Images/imgi_3_Lawrence_480x640-480x640.jpg";
-import ScrollImg4 from "../../src/assets/Images/imgi_4_HugoJoseph_480x640-480x640.jpg";
-import ScrollImg5 from "../../src/assets/Images/imgi_5_ChantalG_480x640-480x640.jpg";
-import ScrollImg6 from "../../src/assets/Images/imgi_6_MyleneS_480x640-480x640.jpg";
-import ScrollImg7 from "../../src/assets/Images/imgi_7_SophieA_480x640-480x640.jpg";
-import ScrollImg8 from "../../src/assets/Images/imgi_8_Claire_480x640-480x640.jpg";
-import ScrollImg9 from "../../src/assets/Images/imgi_9_Michele_480X640-480x640.jpg";
-import ScrollImg10 from "../../src/assets/Images/imgi_10_MEL_480X640-480x640.jpg";
-import ScrollImg11 from "../../src/assets/Images/imgi_11_CAMILLE_480X640_2-480x640.jpg";
-import ScrollImg12 from "../../src/assets/Images/imgi_12_MAXIME_480X640_2-480x640.jpg";
-import ScrollImg13 from "../../src/assets/Images/imgi_13_MEGGIE_480X640_2-480x640.jpg";
-import ScrollImg14 from "../../src/assets/Images/imgi_14_joel_480X640_3-480x640.jpg";
+
+import ScrollImg1 from "../../assets/Images/imgi_1_Carl_480x640-480x640.jpg";
+import ScrollImg2 from "../../assets/Images/imgi_2_Olivier_480x640-480x640.jpg";
+import ScrollImg3 from "../../assets/Images/imgi_3_Lawrence_480x640-480x640.jpg";
+import ScrollImg4 from "../../assets/Images/imgi_4_HugoJoseph_480x640-480x640.jpg";
+import ScrollImg5 from "../../assets/Images/imgi_5_ChantalG_480x640-480x640.jpg";
+import ScrollImg6 from "../../assets/Images/imgi_6_MyleneS_480x640-480x640.jpg";
+import ScrollImg7 from "../../assets/Images/imgi_7_SophieA_480x640-480x640.jpg";
+import ScrollImg8 from "../../assets/Images/imgi_8_Claire_480x640-480x640.jpg";
+import ScrollImg9 from "../../assets/Images/imgi_9_Michele_480X640-480x640.jpg";
+import ScrollImg10 from "../../assets/Images/imgi_10_MEL_480X640-480x640.jpg";
+import ScrollImg11 from "../../assets/Images/imgi_11_CAMILLE_480X640_2-480x640.jpg";
+import ScrollImg12 from "../../assets/Images/imgi_12_MAXIME_480X640_2-480x640.jpg";
+import ScrollImg13 from "../../assets/Images/imgi_13_MEGGIE_480X640_2-480x640.jpg";
+import ScrollImg14 from "../../assets/Images/imgi_14_joel_480X640_3-480x640.jpg";
 
 const Agency = () => {
   gsap.registerPlugin(ScrollTrigger);
