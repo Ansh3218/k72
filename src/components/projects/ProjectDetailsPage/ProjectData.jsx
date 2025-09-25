@@ -1,12 +1,9 @@
-// projectData.js
-
-// 🔹 Pehle sare images import kar
-import Img1 from "../assets/Images/100temps_Thumbnail-1280x960.jpg";
-import Img2 from "../assets/Images/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png";
-import Img3 from "../assets/Images/BEST_site_menu_Thumbnail-1280x960.jpg";
-import Img4 from "../assets/Images/CF_thumbnail-1280x960.jpg";
-import Img5 from "../assets/Images/chalaxeur-thumbnail_img-1280x960.jpg";
-import Img6 from "../assets/Images/crisis24_behance_1920X1200_cartes-1280x960.jpg";
+import Img1 from "../../../assets/Images/100temps_Thumbnail-1280x960.jpg";
+import Img2 from "../../../assets/Images/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png";
+import Img3 from "../../../assets/Images/BEST_site_menu_Thumbnail-1280x960.jpg";
+import Img4 from "../../../assets/Images/CF_thumbnail-1280x960.jpg";
+import Img5 from "../../../assets/Images/chalaxeur-thumbnail_img-1280x960.jpg";
+import Img6 from "../../../assets/Images/crisis24_behance_1920X1200_cartes-1280x960.jpg";
 
 const projectData = [
   {
