@@ -1,5 +1,5 @@
 import React, { useContext, useRef } from "react";
-import LogoSvg from "../../../public/assets/Svg/logo";
+import LogoSvg from "../../assets/Svg/logo";
 import { NavbarContext } from "../context/NavContext";
 import { Link } from "react-router-dom";
 const Navbar = () => {

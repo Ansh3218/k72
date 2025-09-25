@@ -7,25 +7,25 @@ import { Outlet } from "react-router-dom";
 const images = [
   {
     image1:
-      "../../public/assets/Images/100temps_Thumbnail-1280x960.jpg",
+      "../../src/assets/Images/100temps_Thumbnail-1280x960.jpg",
     url1: "1",
     image2:
-      "../../public/assets/Images/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png",
+      "../../src/assets/Images/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png",
     url2: "2",
   },
   {
     image1:
-      "../../public/assets/Images/BEST_site_menu_Thumbnail-1280x960.jpg",
+      "../../src/assets/Images/BEST_site_menu_Thumbnail-1280x960.jpg",
     url1: "3",
-    image2: "../../public/assets/Images/CF_thumbnail-1280x960.jpg",
+    image2: "../../src/assets/Images/CF_thumbnail-1280x960.jpg",
     url2: "4",
   },
   {
     image1:
-      "../../public/assets/Images/chalaxeur-thumbnail_img-1280x960.jpg",
+      "../../src/assets/Images/chalaxeur-thumbnail_img-1280x960.jpg",
     url1: "5",
     image2:
-      "../../public/assets/Images/crisis24_behance_1920X1200_cartes-1280x960.jpg",
+      "../../src/assets/Images/crisis24_behance_1920X1200_cartes-1280x960.jpg",
     url2: "6",
   },
 ];

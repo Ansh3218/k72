@@ -1,5 +1,5 @@
 import React from "react";
-import HeroVideo from "../../../public/assets/Video/83c745cf.mp4";
+import HeroVideo from "../../../src/assets/Video/83c745cf.mp4";
 const Video = () => {
   return (
     <>
